@@ -350,7 +350,7 @@ export default function Portfolio() {
                  className="p-2 text-gray-400 hover:text-white transition-colors duration-200">
                 <Linkedin size={18} />
               </a>
-              <a href="https://drive.google.com/file/d/1M0PBYBzCutGrFvQpUmzgjDs7jj64DjQQ/view?usp=sharing"
+              <a href="https://drive.google.com/file/d/1eHD96Ow_JdrBLcVcobOsfqcLKR_UDRG6/view?usp=sharing"
                  target="_blank" 
                  rel="noopener noreferrer"
                  className="flex items-center gap-2 bg-blue-500 hover:bg-blue-400 text-white
@@ -394,7 +394,7 @@ export default function Portfolio() {
                      className="text-gray-400 hover:text-white transition-colors"><Github size={20} /></a>
                   <a href="https://www.linkedin.com/in/vaibhav-vasoya-622239240/" target="_blank" rel="noopener noreferrer"
                      className="text-gray-400 hover:text-white transition-colors"><Linkedin size={20} /></a>
-                  <a href="https://drive.google.com/file/d/1M0PBYBzCutGrFvQpUmzgjDs7jj64DjQQ/view?usp=sharing"
+                  <a href="https://drive.google.com/file/d/1eHD96Ow_JdrBLcVcobOsfqcLKR_UDRG6/view?usp=sharing"
                      target="_blank" 
                      rel="noopener noreferrer"
                      className="ml-auto flex items-center gap-2 bg-blue-500 text-white text-xs
@@ -495,7 +495,7 @@ export default function Portfolio() {
                             active:scale-95 text-sm">
                 View My Work <ArrowRight size={15} />
               </a>
-              <a href="https://drive.google.com/file/d/1M0PBYBzCutGrFvQpUmzgjDs7jj64DjQQ/view?usp=sharing"
+              <a href="https://drive.google.com/file/d/1eHD96Ow_JdrBLcVcobOsfqcLKR_UDRG6/view?usp=sharing"
                  target="_blank" 
                  rel="noopener noreferrer"
                  className="inline-flex items-center gap-2 border border-white/15
@@ -1054,7 +1054,7 @@ export default function Portfolio() {
                  className="text-gray-600 hover:text-white transition-colors duration-200">
                 <Mail size={18} />
               </a>
-              <a href="https://drive.google.com/file/d/1M0PBYBzCutGrFvQpUmzgjDs7jj64DjQQ/view?usp=sharing"
+              <a href="https://drive.google.com/file/d/1eHD96Ow_JdrBLcVcobOsfqcLKR_UDRG6/view?usp=sharing"
                  target="_blank" 
                  rel="noopener noreferrer"
                  className="inline-flex items-center gap-1.5 text-xs font-bold text-blue-400
